@@ -5,7 +5,7 @@ Un ipotetico sistema per la text-detection di scontrini
 
 # LIMITAZIONI E PROBLEMI DI SEGMENTAZIONE:
  1) lo sfondo deve essere senza altri oggetti vicini allo scontrino o più grandi di esso
- 2) sfondo più scuro dello scontrino
+ 2) inoltre lo sfondo deve essere più scuro dello scontrino
  3) scontrini deformati accartocciati e con rotazioni estreme sono problematici
  4) casi di illuminazione estremi non sono gestiti
 
