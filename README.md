@@ -1,6 +1,8 @@
 # Automatic-Shopping-Register
 Un ipotetico sistema per la text-detection di scontrini
 
+![Blank diagram (1)](https://user-images.githubusercontent.com/30373288/205464548-a733233b-7498-4985-bd76-1ad74168d555.png)
+
 # LIMITAZIONI E PROBLEMI DI SEGMENTAZIONE:
  1) SFONDO SENZA ALTRI OGGETTI VICINI ALLO SCONTRINO O PIU GRANDI DI ESSO
  2) SFONDO PIU SCURO DELLO SCONTRINO
