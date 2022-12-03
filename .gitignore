@@ -146,7 +146,4 @@ cython_debug/
 
 # PyCharm
 .idea/
-
-
-*.pyc
-setting.json
+settings.json
